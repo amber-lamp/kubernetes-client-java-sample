@@ -1,4 +1,4 @@
-package com.example.fabric8sample;
+package com.example.javaclientsample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
